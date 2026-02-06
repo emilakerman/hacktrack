@@ -1,8 +1,7 @@
 A Flutter package for integrating HackTrack error and event tracking into Flutter applications.
 
-// Example Usage in Flutter/Dart in main.dart:
-//
-// Email and uid is optional among other params. Decide yourself what you want to log.
+Example Usage in Flutter/Dart in main.dart:
+Email and uid is optional among other params. Decide yourself what you want to log.
 
 ```dart
  if (!kDebugMode) {
@@ -15,7 +14,8 @@ A Flutter package for integrating HackTrack error and event tracking into Flutte
        stackTrace: "$stack",
        userEmail: (prefs.getString("userEmail") ?? "N/A").toString(),
        userUid: "N/A",
-       // Pass both of these in via environment variables. Available in Integration Guide in HackTrack web portal
+       // Pass both of these in via environment variables. 
+       // Available in the Integration Guide in HackTrack web portal.
        apiKey: "",
        apiUrl: "",
      );
