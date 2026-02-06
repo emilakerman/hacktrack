@@ -1,3 +1,7 @@
+## 0.1.2
+
+* Added example image to readme to show users how an error looks like when logged.
+
 ## 0.1.1
 
 * Cleanup readme.

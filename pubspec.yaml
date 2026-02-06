@@ -1,6 +1,6 @@
 name: hacktrack
 description: A Flutter package for integrating HackTrack error and event tracking into Flutter applications.
-version: 0.1.1
+version: 0.1.2
 
 homepage: https://github.com/emilakerman/hacktrack
 repository: https://github.com/emilakerman/hacktrack
