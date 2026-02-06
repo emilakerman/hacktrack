@@ -23,3 +23,7 @@ Email and uid is optional among other params. Decide yourself what you want to l
    };
  }
 ```
+
+How a logged error looks in the web portal:
+
+![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/emilakerman/Downloads/Screenshot%202026-02-06%20at%2015.14.49.png?version%3D1770387467264)
